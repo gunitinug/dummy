@@ -1,0 +1,4 @@
+$ git remote -v
+origin  https://gunitinug@github.com/gunitinug/dummy.git (fetch)
+origin  https://gunitinug@github.com/gunitinug/dummy.git (push)
+
